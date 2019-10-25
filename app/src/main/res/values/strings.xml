@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TriviaApp</string>
+    <string name="title">TRIVIA</string>
+    <string name="BENAR">TRUE</string>
+    <string name="SALAH">FALSE</string>
+    <string name="Question_counter">0 out of 100</string>
+    <string name="answer_true">Lucky you..</string>
+    <string name="answer_false">are u fucking crazy? check your answer shit..</string>
+    <string name="Score">Score :</string>
+    <string name="High_Score">High score :</string>
+</resources>
